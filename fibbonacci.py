@@ -13,7 +13,7 @@ if nterms <= 0:
 elif nterms == 1:
    print("Fibonacci sequence upto",nterms,":")
    print(n1)
-# generate fibonacci sequence
+
 else:
    print("Fibonacci sequence:")
    while count < nterms:
